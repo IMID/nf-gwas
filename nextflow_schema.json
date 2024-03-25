@@ -459,7 +459,7 @@
           "fa_icon": "fas fa-project-diagram"
         },
         "regenie_gene_vc_max_aaf": {
-          "type": "integer",
+          "type": "number",
           "description": "AAF upper bound to use for SKAT/ACAT-type tests",
           "fa_icon": "fas fa-project-diagram"
         }
